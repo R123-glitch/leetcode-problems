@@ -23,11 +23,13 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/R123-glitch/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/R123-glitch/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/R123-glitch/leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |

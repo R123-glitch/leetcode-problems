@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/R123-glitch/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |

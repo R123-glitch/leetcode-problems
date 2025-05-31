@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,4 +15,12 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+## Number Theory
+|  |
+| ------- |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->

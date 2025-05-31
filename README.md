@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/R123-glitch/leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Number Theory
 |  |

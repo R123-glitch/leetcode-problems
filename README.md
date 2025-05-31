@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/R123-glitch/leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R123-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/R123-glitch/leetcode-problems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R123-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/R123-glitch/leetcode-problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/R123-glitch/leetcode-problems/tree/master/0048-rotate-image) |
 | [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/R123-glitch/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/R123-glitch/leetcode-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

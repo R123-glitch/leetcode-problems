@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Two Pointers
 |  |
@@ -25,10 +26,12 @@
 | ------- |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/R123-glitch/leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Bit Manipulation
 |  |

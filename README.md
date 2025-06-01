@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/R123-glitch/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/R123-glitch/leetcode-problems/tree/master/0048-rotate-image) |
+| [0119-pascals-triangle-ii](https://github.com/R123-glitch/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R123-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/R123-glitch/leetcode-problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/R123-glitch/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R123-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Brainteaser
 |  |

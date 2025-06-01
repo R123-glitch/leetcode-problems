@@ -11,6 +11,7 @@
 | [0119-pascals-triangle-ii](https://github.com/R123-glitch/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R123-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/R123-glitch/leetcode-problems/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/R123-glitch/leetcode-problems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/R123-glitch/leetcode-problems/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/R123-glitch/leetcode-problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/R123-glitch/leetcode-problems/tree/master/0367-valid-perfect-square) |
@@ -47,6 +49,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/R123-glitch/leetcode-problems/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Bit Manipulation
@@ -98,4 +101,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/R123-glitch/leetcode-problems/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/R123-glitch/leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/R123-glitch/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
@@ -94,6 +95,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/R123-glitch/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0345-reverse-vowels-of-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack

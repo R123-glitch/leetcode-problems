@@ -94,6 +94,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/R123-glitch/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0434-number-of-segments-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack
 |  |

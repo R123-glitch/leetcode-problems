@@ -99,6 +99,7 @@
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0812-rotate-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/R123-glitch/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

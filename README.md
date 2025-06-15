@@ -99,12 +99,14 @@
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/R123-glitch/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/R123-glitch/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |

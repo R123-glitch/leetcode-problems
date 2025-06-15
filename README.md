@@ -17,6 +17,7 @@
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
@@ -97,6 +99,7 @@
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack
 |  |

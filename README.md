@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [1372-check-if-it-is-a-good-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -47,6 +48,7 @@
 | [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/R123-glitch/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [1372-check-if-it-is-a-good-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/R123-glitch/leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/R123-glitch/leetcode-problems/tree/master/0204-count-primes) |
+| [1372-check-if-it-is-a-good-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/R123-glitch/leetcode-problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Bit Manipulation

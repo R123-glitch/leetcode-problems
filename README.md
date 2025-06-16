@@ -108,6 +108,7 @@
 | [0812-rotate-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/R123-glitch/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/1252-break-a-palindrome) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/R123-glitch/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/R123-glitch/leetcode-problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack
@@ -193,4 +194,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/R123-glitch/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->

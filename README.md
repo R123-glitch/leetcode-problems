@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/R123-glitch/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/R123-glitch/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |

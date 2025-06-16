@@ -99,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/R123-glitch/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/R123-glitch/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/R123-glitch/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |

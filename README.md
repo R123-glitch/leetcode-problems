@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/R123-glitch/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1372-check-if-it-is-a-good-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/R123-glitch/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |

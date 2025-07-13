@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/R123-glitch/leetcode-problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/R123-glitch/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/R123-glitch/leetcode-problems/tree/master/1372-check-if-it-is-a-good-array) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/R123-glitch/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/R123-glitch/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -49,6 +51,7 @@
 | [0189-rotate-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/R123-glitch/leetcode-problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/R123-glitch/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/R123-glitch/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/R123-glitch/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/R123-glitch/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -67,11 +70,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/R123-glitch/leetcode-problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +87,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/R123-glitch/leetcode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/R123-glitch/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/R123-glitch/leetcode-problems/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
